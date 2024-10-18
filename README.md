@@ -1,5 +1,5 @@
 <h1 style=" font-family=helvetica; font-size=20pt " >Olá! Me chamo Lucas Galvão</h1>
-
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 Sou um desenvolvedor front-end centrado no usuário.
 Tenho trabalhado com desenvolvimento web desde 2023. Minha especialidade inclui as principais tecnologias para desenvolvimento
 web. 
