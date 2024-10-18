@@ -11,7 +11,7 @@ web.
 
 <div style="display= "flex"; align-itens="center"; background-color="white" ;"><br>
 <img align="center" alt="ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-<img align="center" alt="ts" height="40" width="50" fill= #000  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" >
+<img align="center" alt="ts" height="40" width="50" fill= #000   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
 <img align="center" alt="ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 <img align="center" alt="ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"><br>
 <br>
