@@ -1,3 +1,5 @@
+<section background-color ="white" >
+
 <h1 style=" font-family=helvetica; font-size=20pt " >Olá! Me chamo Lucas Galvão</h1>
 
 Sou um desenvolvedor front-end centrado no usuário.
@@ -26,3 +28,4 @@ web.
    
 
 </div>
+<section/>
