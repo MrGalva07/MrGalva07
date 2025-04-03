@@ -1,10 +1,7 @@
 
 
 <h1 style=" font-family=helvetica; font-size=20pt " >Olá! Me chamo Lucas Galvão</h1>
-
-Sou um desenvolvedor front-end centrado no usuário.
-Tenho trabalhado com desenvolvimento web desde 2023. Minha especialidade inclui as principais tecnologias para desenvolvimento
-web. 
+Sou um entusiasmado desenvolvedor front-end centrado no usuário. Formado em Análise e Desenvolvimento de Sistemas,Tenho trabalhado com desenvolvimento web desde 2023.
 
 
 
